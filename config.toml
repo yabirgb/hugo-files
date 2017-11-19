@@ -1,0 +1,4 @@
+baseURL = "http://yabirgb.com/"
+languageCode = "en-us"
+title = "Yábir García"
+theme = "cocoa"
