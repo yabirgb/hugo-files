@@ -48,6 +48,7 @@ The APPs that I have installed from _F-Droid_ are:
 * Simple Contacts - A contacts manager
 * [FreeOTP](https://freeotp.github.io/) - Alternative to GAuthenticator
 * Gadgetbridge - Use my Pebble
+* Tusky - [Mastodon](https://joinmastodon.org/) client
 * Yalp Store
 
 From _Yalp Store_ I have downloaded:
@@ -56,7 +57,6 @@ From _Yalp Store_ I have downloaded:
 * Brave - Another browser based on Chromium but apparently it [cares
   for your privacy](https://brave.com/privacy/).
 * ReadEra - Read ebooks
-* Tootdon - Mastodon client
 * Reddit
 * Telegram X
 
