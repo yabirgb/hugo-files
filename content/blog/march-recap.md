@@ -28,6 +28,9 @@ what I'm doing and share things I liked from the previous month.
   
 * Participated in the google kickstarter but didn't made a greate
   performance.
+  
+* In order to improve how I learn, installed
+  [Anki](https://apps.ankiweb.net/) and I created some decks.
 
 ## What I learned
 
