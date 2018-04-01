@@ -4,6 +4,11 @@ title = "Yábir García"
 theme = "cocoa"
 canonifyurls = true
 
+#rss
+languageCode = "en-us"
+[author]
+    name = "Yábir García Benchakhtir"
+
 
 [permalinks]
 blog = "blog/:slug/"
@@ -33,3 +38,10 @@ lang                   = "en"
 linkedin               = "//linkedin.com/in/yábir-garcía-benchakhtir-8662b7128"
 twitter                = "//twitter.com/yabirgb"
 mastodon 	       = "//mstdn.io/@yabirgb"
+
+  "rssLimit": 20,
+
+  "author": {
+    "name": "Brian Wisti",
+    "email": "brianwisti@pobox.com"
+  }
