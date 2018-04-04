@@ -8,31 +8,31 @@ tags = ['recap', 'march']
 In this serie of posts I want to summarize what I have archieved,
 what I'm doing and share things I liked from the previous month.
 
-## What I did
+## What I have done
 
-* I joined to the Google HashCode 2018 with the `Oh no` team. We ended
+* I joined the Google HashCode 2018 with the `Oh no` team. We ended
   up in a good position with a total score of `36,448,230`. The code
   is available at [github](https://github.com/yabirgb/hashcode2018).
 
-* Started to record my study habits in a spreadsheet so now I count
+* Started to record my study habits in a spreadsheet so now I can count
   all the hours I spend studying and what I study. At the end of the
-  semester my idea is to make an study with all this data. By now I
+  semester my idea is to make an study with all this data. By now, I
   have 23 days registered and a total of 50h.
   
-* Learned to deploy docker's containers, create my own image and how
-  to manage containers with `docker-compose` files. All this was by
-  creating a lychee server.
+* Learned to deploy docker's containers, to create my own image and how
+  to manage containers with `docker-compose` files. I achived this thanks 
+  to create a lychee server.
   
 * Presented a propousal to work with [Read the Docs](http://readthedocs.io/) at the
   Google Summer of Code.
   
-* Participated in the google kickstarter but didn't made a greate
+* Participated in the google kickstarter but I didn't made a great
   performance.
   
-* In order to improve how I learn, installed
+* In order to improve how I learn, I installed
   [Anki](https://apps.ankiweb.net/) and I created some decks.
 
-## What I learned
+## What I have learned
 
 * ActivityPub is something that has my mind trapped now.
 
