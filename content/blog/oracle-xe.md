@@ -30,7 +30,7 @@ Probably you'll need to add your user to the docker group. As described
     sudo usermod -a -G docker $USER
 
 (you will need to log-out and log-in back or reboot your computer so the changes
-takes effect.
+takes effect. If you used snap to install docker follow [this steps](https://askubuntu.com/a/990058) )
 
 Once you have docker installed we'll use a docker image for the Oracle XE.
 The one I used is [this from wnameless](https://hub.docker.com/r/wnameless/oracle-xe-11g/).
